@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Neev Savla
 
-<!--
-**neev21-alt/neev21-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Aspiring Software & Web Developer  
+🚀 Actively learning and building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I enjoy creating clean, user-friendly web applications and understanding how backend systems work.
+
+I work with Java, SQL, HTML, CSS, and JavaScript, and I also explore AI Prompt Engineering to improve productivity and problem-solving.
+
+---
+
+## 🛠️ Skills & Tools
+- Java
+- SQL
+- JavaScript
+- HTML
+- CSS
+- Backend Development
+- Web Development
+- AI Prompt Engineering
+- DBMS
+- Problem Solving
+
+---
+
+## 📌 Projects
+### 🔹 TapVerse
+- Web-based project focused on digital profiles
+- Built using HTML, CSS, JavaScript, Java, and SQL
+
+### 🔹 Student Management System
+- Java application using JDBC and SQL
+- Implemented CRUD operations
+
+---
+
+## 🎯 Currently Looking For
+- Software Developer Internships
+- Web / Backend Internship opportunities
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/neev-savla-bb09b632b/
