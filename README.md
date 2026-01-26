@@ -1,6 +1,6 @@
 # Hi 👋, I'm Neev Savla
 
-🎓 Computer Engineering Student  
+🎓 Cyber Security Student  
 💻 Aspiring Software & Web Developer  
 🚀 Actively learning and building real-world projects
 
