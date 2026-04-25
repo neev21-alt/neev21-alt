@@ -1,48 +1,30 @@
-# Hi 👋, I'm Neev Savla
+Neev Savla
+AI & Cybersecurity Researcher | Backend & Automation Engineer
 
-🎓 Cyber Security Student  
-💻 Aspiring Software & Web Developer  
-🚀 Actively learning and building real-world projects
+Building systems at the intersection of artificial intelligence, web architecture, and security. Focused on long-term, scalable engineering over basic tutorial projects.
 
----
+🔬 What I'm Working On
+Currently leading the development of a Deepfake Detection AI Tool for the Intel® AI Global Impact Festival 2025. My work involves reverse-engineering synthetic media generation methods to build robust detection algorithms using Python.
 
-## 👨‍💻 About Me
-I enjoy creating clean, user-friendly web applications and understanding how backend systems work.
+⚙️ Tech Stack
+Languages: Python, Java, JavaScript, SQL
+Backend & Web: Node.js, Express.js, Flask, MySQL, JDBC
+Security & Infrastructure: Ethical Hacking, Session Analysis, Assembly Debugging, Process Automation
 
-I work with Java, SQL, HTML, CSS, and JavaScript, and I also explore AI Prompt Engineering to improve productivity and problem-solving.
+📂 Featured Projects
+🔍 Deepfake Detection AI
+Python, Machine Learning
+An AI-driven forensic tool built for the Intel Global Impact Festival to detect and flag manipulated media.
 
----
+⚙️ Automation & Bot Ecosystem
+Python, JavaScript
+Custom-built automation scripts and bots designed to eliminate repetitive digital workflows and server management overhead.
 
-## 🛠️ Skills & Tools
-- Java
-- SQL
-- JavaScript
-- HTML
-- CSS
-- Backend Development
-- Web Development
-- AI Prompt Engineering
-- DBMS
-- Problem Solving
+🗄️ Relational Database System
+Java, JDBC, MySQL
+Architected a secure backend system focused on optimized query handling, data integrity, and JDBC connection management.
 
----
-
-## 📌 Projects
-### 🔹 TapVerse
-- Web-based project focused on digital profiles
-- Built using HTML, CSS, JavaScript, Java, and SQL
-
-### 🔹 Student Management System
-- Java application using JDBC and SQL
-- Implemented CRUD operations
-
----
-
-## 🎯 Currently Looking For
-- Software Developer Internships
-- Web / Backend Internship opportunities
-
----
-
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/neev-savla-bb09b632b/
+📜 Certifications
+CCNA: Introduction to Networks - Cisco Networking Academy
+📫 Connect
+LinkedIn: linkedin.com/in/neev-savla-bb09b632b
