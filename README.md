@@ -1,56 +1,84 @@
-<h1 align="center">Hey, I'm Neev Savla 👋</h1>
+# Neev Savla
 
-<p align="center">
-  <b>AI & Cybersecurity Researcher · Backend & Automation Engineer</b><br>
-  Building systems at the intersection of artificial intelligence, web architecture, and security.<br>
-  Focused on long-term, scalable engineering — not tutorial projects.
-</p>
+**Cyber Security Engineering Student @ SAKEC '28 · Full-Stack Developer · Mumbai**
+
+Building full-stack web applications, cybersecurity tools, and AI-assisted systems. Second-year student with real internship and project experience.
 
 ---
 
-## 🔬 What I'm Working On
+## What I'm Working On
 
-- Leading development of a **Deepfake Detection AI Tool** for the **Intel® AI Global Impact Festival 2025**
-- Reverse-engineering synthetic media generation methods to build robust detection algorithms using Python
+- **PhishPulse** — Full-stack cybersecurity awareness platform with phishing attack simulations and gamified training
+- **SentinelAI** — AI-powered detection system for phishing attempts, deepfake media, and cyber threats
+- **Election Guide India** — Multilingual AI civic-tech assistant deployed on Vercel (submitted to Google Build with AI Hackathon 2026)
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-| Domain | Tools |
+| Category | Technologies |
 |---|---|
-| **Languages** | Python · Java · JavaScript · SQL |
-| **Backend & Web** | Node.js · Express.js · Flask · MySQL · JDBC |
-| **Security & Infra** | Ethical Hacking · Session Analysis · Assembly Debugging · Process Automation |
+| **Languages** | JavaScript · TypeScript · Python · Java · SQL |
+| **Frontend** | React · Vite · TailwindCSS · Framer Motion · HTML5 |
+| **Backend** | Node.js · Express · FastAPI · JWT · REST APIs |
+| **Databases** | MySQL · JDBC · Schema Design |
+| **APIs & Tools** | Gemini API · Web Speech API · Web Audio API · Zustand |
+| **DevOps** | Git · GitHub · Vercel · npm |
+| **Security** | Ethical Hacking · Secure Auth · SQL Injection Prevention · Session Analysis |
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🔍 Deepfake Detection AI
-`Python` `Machine Learning`  
-An AI-driven forensic tool built for the Intel Global Impact Festival to detect and flag manipulated media.
+### [PhishPulse](https://github.com/neev21-alt/PhishPulse) — Cybersecurity Simulation Platform
+React · TypeScript · Python FastAPI · TailwindCSS · Framer Motion · Zustand
 
----
-
-### ⚙️ Automation & Bot Ecosystem
-`Python` `JavaScript`  
-Custom-built automation scripts and bots designed to eliminate repetitive digital workflows and server management overhead.
+Interactive cybersecurity awareness platform with 20+ node attack visualization, gamified mission progression, and real-time phishing scenario simulation.
 
 ---
 
-### 🗄️ Relational Database System
-`Java` `JDBC` `MySQL`  
-Architected a secure backend system focused on optimized query handling, data integrity, and JDBC connection management.
+### [Election Guide India](https://election-guide-india.vercel.app) — AI Civic Tech Portal
+React · Gemini 2.5 Flash · Web Speech API · Web Audio API · HTML5 Canvas
+
+Deployed multilingual AI election assistant (English/Hindi) with interactive EVM & VVPAT simulator and voice input/output. Submitted to Google Build with AI Hackathon, Apr 2026.
 
 ---
 
-## 📜 Certifications
+### [SentinelAI](https://github.com/neev21-alt/SentinelAI) — AI Threat Detection System
+Python · ML Classification · Security Analysis
 
-- **CCNA: Introduction to Networks** — Cisco Networking Academy
+AI-powered system for detecting phishing attempts, deepfake media, and cyber threats. Submitted to Intel AI Global Impact Festival 2025.
 
 ---
 
-## 📫 Connect
+### [Student Management System](https://github.com/neev21-alt/Student-Management-System) — Secure CRUD App
+Java · MySQL · Swing · JDBC
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neev%20Savla-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/neev-savla-bb09b632b/)
+Role-based authentication system with parameterized queries preventing SQL injection, server-side input validation, and normalized database schemas.
+
+---
+
+## Experience
+
+**Frontend Developer Intern — CodeSprint Tech** *(Sept – Oct 2025)*
+Delivered responsive interfaces for 4+ client projects using HTML, CSS, JavaScript under Agile sprint workflows.
+
+---
+
+## Certifications
+
+- CCNA: Introduction to Networks — Cisco Networking Academy (2025)
+- CyberPeace First Responders Training — CyberPeace Foundation (2025)
+- OS Basics — Cisco Networking Academy (2025)
+- C Programming — IIT Bombay (92.5%)
+- Python — IIT Bombay Spoken Tutorial (90%)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neev_Savla-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/neev-savla-bb09b632b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-neev21--alt.github.io-1A1A2E?style=flat&logo=github)](https://neev21-alt.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-neev.savla24@sakec.ac.in-D14836?style=flat&logo=gmail)](mailto:neev.savla24@sakec.ac.in)
+
+**Open to internships in Software Engineering · Full-Stack Development · Cybersecurity Engineering**
